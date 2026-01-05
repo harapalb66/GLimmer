@@ -1,6 +1,6 @@
 # GLIMMER: GLoss-based Image Multiword Meaning Expression Ranker
 
-Official implementation of GLIMMER for the SemEval-2025 Task 1: ADMIRE shared task.
+Official implementation of GLIMMER for the SemEval-2026 ADMIRE shared task.
 
 ## Overview
 
@@ -118,4 +118,4 @@ MIT License - see LICENSE file for details
 
 ## Contact
 
-For questions or issues, please open an issue on GitHub or contact [your-email@example.com]
+For questions or issues, please open an issue on GitHub 
