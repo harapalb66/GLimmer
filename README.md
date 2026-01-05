@@ -105,24 +105,12 @@ Key hyperparameters:
 
 ## Performance
 
-GLIMMER achieved competitive performance on SemEval-2025 Task 1:
+GLIMMER achieved competitive performance on SemEval-2026 Task 1:
 
 - Overall accuracy: 51.2%
 - Best performance: Portuguese-Brazil (66.7%), Russian (62.9%), Slovenian (58.8%)
 - Zero-shot transfer across 15 languages without language-specific tuning
 
-## Citation
-
-If you use this code, please cite our paper:
-
-```bibtex
-@inproceedings{yourname2025glimmer,
-  title={GLIMMER: GLoss-based Image Multiword Meaning Expression Ranker for ADMIRE},
-  author={Your Name},
-  booktitle={Proceedings of the 17th International Conference on Computational Semantics (IWCS)},
-  year={2025}
-}
-```
 
 ## License
 
